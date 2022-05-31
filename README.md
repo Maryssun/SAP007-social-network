@@ -252,13 +252,13 @@ O diferencial dessa rede social é que todas as mulheres que se cadastrarem, ser
 
 <td>
   <div align= "center">
-    <img alt="
-Dayanne Maryssol de Andrade Almeida" height="150" src="https://avatars.githubusercontent.com/u/92697749?v=4"> 
+    <img alt="Dayanne Maryssol" height="150" src="https://avatars.githubusercontent.com/u/92697749?v=4"> 
   </div>
-  <h3 align="center"><a href="https://github.com/Maryssun">Dayanne Maryssol de Andrade Almeida</a></h3>
+  <h3 align="center"><a href="https://github.com/Maryssun">Dayanne Maryssol</a></h3>
   <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
   <div align="center">
     <a href = "mailto:maryssol.dayanne@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+     <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 </td>
 

@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="topo">
    <img alt="Logo da Laboratoria" src="/src/img/to-readme/logo-labfriends.png">
 
 ## LabFriends é uma rede social para alunas do bootcamp da Laboratoria.
@@ -51,6 +51,12 @@ Todas as usuárias terão um perfil editável, com informações pessoais relaci
 
 O diferencial dessa rede social é que todas as mulheres que se cadastrarem, serão automaticamente conectadas com as demais existentes na LabFriends, não havendo necessidade de encontrar usuárias individualmente para solicitar a sua amizade online. Assim, todas as usuárias poderão se conectar com maior número de alunas,  para buscar informações pertinentes enquanto as mesmas estão cursando o bootcamp e até mesmo para dúvidas profissionais após o seu término.
 
+<p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
+
 ## 2. HISTÓRIAS DE USUÁRIOS
 
 > "Como amante de rede social e aluna da Laboratoria quero uma rede social para que eu possa ter mais momentos de [happy hour](https://pt.wikipedia.org/wiki/Happy_hour) com as minhas colegas e também poder tirar dúvidas sobre programação ou ajudá-las. Quero uma aplicação que eu possa acessar em qualquer dispositivo, desde celular, tablet e notebook e que eu possa clicar em qualquer parte do site para criar as minhas postagens."
@@ -82,6 +88,12 @@ O diferencial dessa rede social é que todas as mulheres que se cadastrarem, ser
    - [x] Para ações dos usuários que ocorreram sucesso, deve ser mostrados na tela automaticamente a ação em que o usuário pretendia que acontecesse, não precisando que ele atualize a página para que a ação seja visualizada.
 
    - [x] Para acessar todas as páginas internas do site LabFriends, a usuária deve estar cadastrada seja com email e a senha que ela usou para criar a conta pertecente e, após isso, realizar o acesso ao site com essas mesmas informações. Caso a usuária não queira criar uma conta nova, haverá a possibilidade de usar a sua conta do Google, e, neste caso, o site LabFriends não terá acesso a sua senha ou qualquer meio de autenticação da conta do Google.
+
+<p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
    
 ## 3.  UX (EXPERIÊNCIA DO USUÁRIO) E UI (DESIGN DE INTERFACE)
    
@@ -157,6 +169,12 @@ O diferencial dessa rede social é que todas as mulheres que se cadastrarem, ser
      <div>
         <img alt="Cartela de cores do site" src="./src/img/to-readme/color-site.png">
      </div>
+     
+ <p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
 
 ## 4. PROTÓTIPOS
 
@@ -193,6 +211,12 @@ O diferencial dessa rede social é que todas as mulheres que se cadastrarem, ser
      <div>
         <img alt="Protótipo para telas acima de 1.000px" src="/src/img/to-readme/prototype-desktop.gif" height="500">
      </div>
+     
+ <p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
 
 ## 5. TESTES DE USABILIDADE
 
@@ -208,6 +232,11 @@ O diferencial dessa rede social é que todas as mulheres que se cadastrarem, ser
 
   2. Dar a opção das usuárias fazerem autenticação no site usando as redes socias: Facebook e GitHub.
 
+<p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
 
 ## 6. FERRAMENTAS UTILIZADAS
 
@@ -234,6 +263,12 @@ O diferencial dessa rede social é que todas as mulheres que se cadastrarem, ser
 - **Web:**
 
   - **Editor:** _[Visual Studio Code](https://code.visualstudio.com/)_
+
+<p align="right">
+  <a href="#topo">
+  ⬆ Voltar ao topo
+ </a>
+</p>
 
 ## 7. AUTORAS
 
